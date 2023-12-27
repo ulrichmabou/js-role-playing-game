@@ -1,6 +1,5 @@
-# js-role-playing-game
 
-Play Dragon Repeller: a simple role playing game with HTML, CSS and JS
+Play Dragon Repeller: a simple role playing game where you must defeat a dangerous dragon that is preventing people from leaving the town.
 
 ![Role playing game screenshot](role-playing-game.png)
 
